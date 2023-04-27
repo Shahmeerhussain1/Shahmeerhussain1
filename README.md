@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shahmeer Hussain</h1>
-<h3 align="center">A frontend developer from Pakistan</h3>
+<h3 align="center">A JavaScript developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **hussainshahmeer99@gmail.com**
 
