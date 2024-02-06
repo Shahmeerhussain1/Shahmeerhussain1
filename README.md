@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shahmeer Hussain</h1>
-<h3 align="center">A JavaScript developer from Pakistan</h3>
+<h3 align="center">A MernStack developer from Pakistan</h3>
 
 - 🌱 I’m currently learning 
 
