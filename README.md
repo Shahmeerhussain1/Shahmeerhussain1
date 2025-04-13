@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Shahmeer Hussain</h1>
+<h1 align="center">Hi 👋, I'm Shah Meer Hussain</h1>
 <h3 align="center">A MernStack developer from Pakistan</h3>
 
 - 🌱 I’m currently learning 
